@@ -1,11 +1,11 @@
 {
     "name": "m1/vars",
-    "description": "Vars is a simple to use and easily extendable configuration loader with in built loaders for ini, json, PHP, toml, XML and yaml/yml file types. It also comes with in built support for Silex and more frameworks to come soon.",
+    "description": "THIS IS A FORK OF m1/Vars! Vars is a simple to use and easily extendable configuration loader with in built loaders for ini, json, PHP, toml, XML and yaml/yml file types. It also comes with in built support for Silex and more frameworks to come soon.",
     "keywords": [
         "miles", "croxford", "vars", "config", "configuration", "loader", "json", "yml", "xml", "toml", "php", "ini",
         "silex", "service", "provider"
     ],
-    "homepage": "git@gitlab.com:browserwerk/typo3/Vars.git",
+    "homepage": "https://github.com/Browserwerft/Vars.git",
     "license": "MIT",
     "authors": [
         {
